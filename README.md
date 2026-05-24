@@ -47,7 +47,7 @@ http://localhost:3000
 ## 📸 Preview
 
 Live Demo:
-https://pizza-project-sand.vercel.app
+https://pizza-project-6g8w.vercel.app/
 
 ## 👩‍💻 Author
 
